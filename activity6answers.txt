@@ -1,0 +1,11 @@
+1. A database is a structured set of data that is easily accessible in different ways.
+2. Retail Stores, Websites, Applications, Games, Finances
+3. MYSQL is a database system that is being used on the web. 
+4. MYSQL in PHP is important because it helps in handling big amounts of data and it also helps big amounts of data secured.
+5. fetch_assoc() - Fetches a row as an associative array
+connect() - opens a connection to database
+connect_error() - returns the error description from last connection error
+fetchall() - fetches all result rows as an associative or numeric array
+query() - performs a query 
+select_db() - selecs the default database for database queries
+6. Facebook, Google, Twitter, Instagram, Youtube, Shopee, Lazada, Amazon, Wikipedia, Tumblr

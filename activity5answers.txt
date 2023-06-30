@@ -1,0 +1,6 @@
+1. The use of super global is to have variables that can be accessible always in all scopes.
+2. $_GET is passed to the current script via the url parameters while $_POST is passed to the current script via the HTTP post method.
+3. Cookies help users to have a covenient website visits and it remembers users website logins, shopping carts and more.
+4. A session is a way to store informations via variables to be able to use to 
+5. Using session is convenient specially when using database because you can store database information to a session and calling a session
+is faster.
